@@ -1,6 +1,7 @@
-#Student Details
+# Student Details
 
 Name: Madhav Krishna T
+
 Register Number: TCR24CS043
 
 # Pattern Recognition for Financial Time Series Forecasting
