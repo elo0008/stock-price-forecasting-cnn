@@ -1,3 +1,8 @@
+#Student Details
+
+Name: Madhav Krishna T
+Register Number: TCR24CS043
+
 # Pattern Recognition for Financial Time Series Forecasting
 
 A deep learning pipeline that transforms stock price data into time-frequency spectrograms using STFT and trains a CNN regression model to predict future prices.
